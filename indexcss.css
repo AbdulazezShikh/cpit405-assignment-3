@@ -94,7 +94,7 @@ color:#ebebe0;
 }
 
 #footer-list{
-   position: relative;
+   position: fixed;
    bottom: 0px;
    left: 0px;
    right: 0px;
